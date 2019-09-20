@@ -19,4 +19,8 @@ If you're interested in helping out, please submit a Pull Request to review your
 
 ## Find something awesome here
 
-
+- Gradient Tools
+- [Forms](/docs/Forms.md)
+- SEO
+- Style Guide
+- Modal
