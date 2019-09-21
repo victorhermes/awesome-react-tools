@@ -26,6 +26,7 @@ Your contribution will help a lot 😍
 
 - [Animations](/docs/Animations.md)
 - [Toasts](/docs/Toasts.md)
+- [Grids](/docs/Grids.md)
 - Gradient Tools
 - [Forms](/docs/Forms.md)
 - SEO
