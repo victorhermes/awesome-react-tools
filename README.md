@@ -25,7 +25,9 @@ Your contribution will help a lot 😍
 ## Find something awesome here
 
 - [Animations](/docs/Animations.md)
+- [Accessibility](/docs/Accessibility.md)
 - [Carousels](/docs/Carousels.md)
+- [Dates](/docs/Dates.md)
 - [Toasts](/docs/Toasts.md)
 - [Grids](/docs/Grids.md)
 - Gradient Tools
