@@ -28,4 +28,4 @@ Your contribution will help a lot 😍
 - [Forms](/docs/Forms.md)
 - SEO
 - Style Guide
-- Modal
+- [Modals](/docs/Modals.md)
