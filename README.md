@@ -33,5 +33,5 @@ Your contribution will help a lot 😍
 - [Gradients](/docs/Gradients.md)
 - [Forms](/docs/Forms.md)
 - [SEO](/docs/SEO.md)
-- Style Guide
+- [Style Guides](/docs/Style_Guides.md)
 - [Modals](/docs/Modals.md)
