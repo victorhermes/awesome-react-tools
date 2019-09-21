@@ -30,7 +30,7 @@ Your contribution will help a lot 😍
 - [Dates](/docs/Dates.md)
 - [Toasts](/docs/Toasts.md)
 - [Grids](/docs/Grids.md)
-- Gradient Tools
+- [Gradients](/docs/Gradients.md)
 - [Forms](/docs/Forms.md)
 - SEO
 - Style Guide
