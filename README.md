@@ -24,14 +24,14 @@ Your contribution will help a lot 😍
 
 ## Find something awesome here
 
-- [Animations](/docs/Animation.md)
+- [Animation](/docs/Animation.md)
 - [Accessibility](/docs/Accessibility.md)
-- [Carousels](/docs/Carousel.md)
-- [Dates](/docs/Date.md)
-- [Toasts](/docs/Notification.md)
-- [Grids](/docs/Grid.md)
-- [Gradients](/docs/Gradient.md)
-- [Forms](/docs/Form.md)
+- [Carousel](/docs/Carousel.md)
+- [Date](/docs/Date.md)
+- [Toast](/docs/Notification.md)
+- [Grid](/docs/Grid.md)
+- [Gradient](/docs/Gradient.md)
+- [Form](/docs/Form.md)
 - [SEO](/docs/SEO.md)
-- [Style Guides](/docs/Style_Guide.md)
-- [Modals](/docs/Modal.md)
+- [Style Guide](/docs/Style_Guide.md)
+- [Modal](/docs/Modal.md)
