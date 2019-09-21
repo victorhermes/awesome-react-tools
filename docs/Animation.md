@@ -1,4 +1,4 @@
-## Animations
+## Animation
 
 - [react-animations](https://github.com/FormidableLabs/react-animations): A collection of animations for inline style libraries
 - [react-spring](https://github.com/react-spring/react-spring): A spring physics based React animation library

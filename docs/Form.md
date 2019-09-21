@@ -1,4 +1,4 @@
-## Forms
+## Form
 
 - [Formcat](https://github.com/guilouro/formcat): A simple and easy way to control forms in React using the React Context API
 - [Formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears

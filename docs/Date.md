@@ -1,4 +1,4 @@
-## Dates
+## Date
 
 - [react-dates](https://github.com/airbnb/react-dates): An easily internationalizable, mobile-friendly datepicker library for the web
 - [React Native Calendars](https://github.com/wix/react-native-calendars): React Native Calendar Components
