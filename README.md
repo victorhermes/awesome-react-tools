@@ -20,7 +20,7 @@
 If you're interested in helping out, please submit a Pull Request to review your idea. Always contribute to open source libraries and frameworks. To insert a new tool, follow the format:
 `[Tool name](link): description`
 
-Your contribution will help a lot.
+Your contribution will help a lot 😍
 
 ## Find something awesome here
 
