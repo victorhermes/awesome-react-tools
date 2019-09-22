@@ -24,8 +24,8 @@ Your contribution will help a lot 😍
 
 ## Find something awesome here
 
-- [Animation](/docs/Animation.md)
 - [Accessibility](/docs/Accessibility.md)
+- [Animation](/docs/Animation.md)
 - [Carousel](/docs/Carousel.md)
 - [Date](/docs/Date.md)
 - [Notification](/docs/Notification.md)
