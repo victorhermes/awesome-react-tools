@@ -31,7 +31,7 @@ Your contribution will help a lot 😍
 - [Notification](/docs/Notification.md)
 - [Grid](/docs/Grid.md)
 - [Gradient](/docs/Gradient.md)
-- [Form](/docs/Form.md)
+- [Input](/docs/Input.md) — form / select
 - [SEO](/docs/SEO.md)
 - [Style Guide](/docs/Style_Guide.md)
 - [Modal](/docs/Modal.md)

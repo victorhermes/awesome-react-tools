@@ -13,3 +13,13 @@
 - [tcomb-form-native](https://github.com/gcanti/tcomb-form-native): Forms library for react-native
 
 - [Unform](https://github.com/Rocketseat/unform): ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
+
+## Select
+
+- [React-Select](https://github.com/JedWatson/react-select): The Select Component for React.js
+
+- [react-select-material-ui](https://github.com/iulian-radu-at/react-select-material-ui): A react SELECT component based on react-select and looking like a material-ui component
+
+- [react-selectize](https://github.com/furqanZafar/react-selectize): A Stateless Flexible Select component for React inspired by Selectize.
+
+- [React-Date-Select](https://github.com/JedWatson/react-date-select): A React Date Select / Picker Input Component
