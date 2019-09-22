@@ -24,7 +24,7 @@ Your contribution will help a lot 😍
 
 ## Find something awesome here
 
-- [Accessibility](/docs/Accessibility.md)
+- [Accessibility](/docs/Accessibility.md): the most important topic
 - [Animation](/docs/Animation.md)
 - [Carousel](/docs/Carousel.md)
 - [Date](/docs/Date.md)
