@@ -1,8 +1,7 @@
 ## Accessibility
 
 **Web accessibility is something that must be prioritized. Therefore, I advise the following link where there are detailed steps on how to make your site accessible to people with disabilities.**
-
-- [Getting Started with Web Accessibility in React](https://medium.com/@emilymears/getting-started-with-web-accessibility-in-react-9e591fdb0d52)
+[Getting Started with Web Accessibility in React](https://medium.com/@emilymears/getting-started-with-web-accessibility-in-react-9e591fdb0d52)
 
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y): Static AST checker for a11y rules on JSX elements
 - [React A11y](https://github.com/reactjs/react-a11y): Identifies accessibility issues in your React.js elements
