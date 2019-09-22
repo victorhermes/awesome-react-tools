@@ -28,7 +28,7 @@ Your contribution will help a lot 😍
 - [Accessibility](/docs/Accessibility.md)
 - [Carousel](/docs/Carousel.md)
 - [Date](/docs/Date.md)
-- [Toast](/docs/Notification.md)
+- [Notification](/docs/Notification.md)
 - [Grid](/docs/Grid.md)
 - [Gradient](/docs/Gradient.md)
 - [Form](/docs/Form.md)
